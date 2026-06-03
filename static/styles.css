@@ -170,9 +170,9 @@ main {
 }
 
 .hero h1 {
-  max-width: 950px;
+  max-width: 1060px;
   margin-inline: auto;
-  font-size: clamp(2rem, 4.7vw, 3.45rem);
+  font-size: clamp(2rem, 4.2vw, 3.08rem);
   line-height: 1.06;
 }
 
